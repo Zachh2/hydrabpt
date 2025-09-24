@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "CommonJS",
+    "outDir": "./dist",
+    "rootDir": ".",
+    "strict": false,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "moduleResolution": "node",
+    "allowJs": true,
+    "checkJs": false,
+    "types": ["node"],
+    "noImplicitAny": false,
+    "baseUrl": "./",
+    "paths": {
+      "@aurora/styler": ["./core/plugins/aurora-beta-styler"]
+    }
+  },
+  "include": ["**/*.ts", "**/*.js", "global.ts"],
+  "exclude": ["node_modules", "dist"]
+}

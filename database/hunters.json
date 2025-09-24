@@ -1,0 +1,112 @@
+{
+  "100073129302064": {
+    "hunterName": "Aljur_jinwo",
+    "rank": "B",
+    "exp": 2110,
+    "mana": 100,
+    "inventory": {
+      "celestial_sword_damage-300": {
+        "quantity": 2,
+        "damage": 300
+      },
+      "luck_potion": {
+        "quantity": 20,
+        "damage": 0
+      }
+    },
+    "arisenSoldiers": [
+      {
+        "name": "Igris",
+        "nickname": "GeneralIgris"
+      },
+      {
+        "name": "Tusk",
+        "nickname": "ShadowIgris"
+      }
+    ],
+    "attempts": {
+      "count": 6,
+      "lastReset": 1746345659731
+    },
+    "defeatedBosses": [
+      "Iron"
+    ]
+  },
+  "100014033201588": {
+    "hunterName": "sung_Jin_rice_a.k.a_extraRice",
+    "rank": "E",
+    "exp": 0,
+    "mana": 100,
+    "inventory": {},
+    "arisenSoldiers": [],
+    "attempts": {
+      "count": 8,
+      "lastReset": 1746105926907
+    }
+  },
+  "100024761239056": {
+    "hunterName": "jinwoo",
+    "rank": "D",
+    "exp": 290,
+    "mana": 100,
+    "inventory": {},
+    "arisenSoldiers": [],
+    "attempts": {
+      "count": 6,
+      "lastReset": 1746154726635
+    }
+  },
+  "61566739300335": {
+    "hunterName": "Sung_jinwoo",
+    "rank": "D",
+    "exp": 130,
+    "mana": 100,
+    "inventory": {},
+    "arisenSoldiers": [],
+    "attempts": {
+      "count": 7,
+      "lastReset": 1746155138457
+    }
+  },
+  "100090641031344": {
+    "hunterName": "drey",
+    "rank": "D",
+    "exp": 120,
+    "mana": 100,
+    "inventory": {},
+    "arisenSoldiers": [],
+    "attempts": {
+      "count": 7,
+      "lastReset": 1746165755554
+    }
+  },
+  "61568079673408": {
+    "hunterName": "Vein",
+    "rank": "C",
+    "exp": 1260,
+    "mana": 100,
+    "inventory": {
+      "luck_potion": {
+        "quantity": 20,
+        "damage": 0
+      },
+      "speed_potion": {
+        "quantity": 50,
+        "damage": 0
+      },
+      "strength_potion": {
+        "quantity": 200,
+        "damage": 0
+      },
+      "celestial_sword_damage-300": {
+        "quantity": 1,
+        "damage": 300
+      }
+    },
+    "arisenSoldiers": [],
+    "attempts": {
+      "count": 7,
+      "lastReset": 1746349020805
+    }
+  }
+}

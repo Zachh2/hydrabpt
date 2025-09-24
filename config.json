@@ -1,0 +1,21 @@
+{
+  "admins": [
+    "100064763179341",
+    "@Patrick"
+  ],
+  "moderators": [
+    "100064763179341"
+  ],
+  "developers": [
+    "100064763179341"
+  ],
+  "vips": [
+    "100064763179341"
+  ],
+  "Prefix": [
+    "-"
+  ],
+  "DiscordMode": false,
+  "botName": "hydrabot",
+  "mongoUri": "mongodb+srv://Hydrabot:RobloxBot22%21@hydrabot.6qt7bn6.mongodb.net/?retryWrites=true&w=majority&appName=Hydrabot"
+}
